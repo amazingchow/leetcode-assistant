@@ -1,2 +1,1 @@
-# fetch-leetcode-problem
-pick up leetcode problems
+pick up one leetcode problem for you
